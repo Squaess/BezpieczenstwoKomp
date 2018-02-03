@@ -1,0 +1,15 @@
+GEN | Key size: 1024 0.032752
+Sign: Key size 1042 0.000981
+Verify: Key size 1024 0.002408
+GEN | Key size: 2048 0.083159
+Sign: Key size 2048 0.004022
+Verify: Key size 2048 0.0081
+GEN | Key size: 4096 0.961724
+Sign: Key size 4096 0.026466
+Verify: Key size 4096 0.024987
+GEN | Key size: 8192 7.49193
+Sign: Key size 8192 0.194298
+Verify: Key size 8192 0.190914
+GEN | Key size: 16384 19.723
+Sign: Key size 16384 1.4669
+Verify: Key size 16384 1.46117
